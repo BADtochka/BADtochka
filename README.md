@@ -1,5 +1,5 @@
 ```TS
 // TODO:
 // - update README
-// - Add description for repos
+// - add description for repos
 ```
